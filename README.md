@@ -1,23 +1,21 @@
-# Overview
+# Hello World JavaScript
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+## Overview
 
-{Provide a description of your software}
+This is a simple program that prints a Hello World message to the console using JavaScript. The purpose of this software is to confirm that my development environment is working correctly and to start building my personal software portfolio.
 
-{Describe your purpose for creating this software.}
+[Software Demo Video](YOUR_YOUTUBE_VIDEO_LINK)
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+## Development Environment
 
-[Software Demo Video](http://youtube.link.goes.here)
+I created this program using:
+- Visual Studio Code as my text editor
+- Git for version control
+- Node.js to run the JavaScript code
 
-# Development Environment
+The programming language used is JavaScript.
 
-{Describe the tools that you used to develop the software}
+## Useful Websites
 
-{Describe the programming language that you used}
-
-# Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+- [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [GitHub Docs](https://docs.github.com)
